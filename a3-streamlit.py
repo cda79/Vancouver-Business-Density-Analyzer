@@ -197,8 +197,7 @@ st.subheader("Markdown")
 st.markdown("""
 1. **Does the grouping seem meaningful given what you know (or can look up) about these areas? Any surprising groupings? Explain using the actual cluster membership, not just the general shape of the plot.**
 
-Neighborhoods with similar business environments naturally pair up. For example, commercial and office hubs 
-like **Downtown** and **Fairview** group together because they are full of corporate offices, shops, and resturants. They are touristy destinations.
+Neighborhoods with similar business environments naturally pair up. For example, commercial and office hubs like **Downtown** and **Fairview** group together because they are full of corporate offices, shops, and restaurants. They are touristy destinations.
 
 Quieter residential areas like **Dunbar-Southlands** and **Kerrisdale** form their own group, 
 made up mostly of local health clinics, personal services, and small home businesses.
