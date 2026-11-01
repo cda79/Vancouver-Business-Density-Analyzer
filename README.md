@@ -1,6 +1,7 @@
 # Vancouver Spatial Analysis & Clustering Dashboard
 
 An interactive data analytics web application built with Python, Streamlit, and Plotly to analyze and cluster commercial business density across Vancouver using unsupervised machine learning.
+
 **Data Source:** City of Vancouver Open Data Portal — Business Licences https://opendata.vancouver.ca/explore/dataset/business-licences/
 
 ## Project Overview
